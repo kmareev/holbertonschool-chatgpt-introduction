@@ -1,3 +1,5 @@
+https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2024/4/fa85b3a428f487288f9d767e688abb5432aa826d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240516%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240516T052522Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e48fd6d952e8650cd08bdf12fb98ae15a86f8204c6e7b092e2d54e1cbd5c001c
+
 # Enhancing Code Quality and Effeciency with ChatGPT
 
 Welcome to a specialized module of our IT curriculum where we explore innovative ways to integrate artificial intelligence into everyday coding practices.
