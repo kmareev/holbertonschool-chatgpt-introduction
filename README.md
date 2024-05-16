@@ -1,4 +1,4 @@
-https://s3.eu-west-3.amazonaws.com/hbtn.intranet/uploads/medias/2024/4/fa85b3a428f487288f9d767e688abb5432aa826d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MYA5JM5DUTZGMZG%2F20240516%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240516T052522Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e48fd6d952e8650cd08bdf12fb98ae15a86f8204c6e7b092e2d54e1cbd5c001c
+![Picture of ChatGPT](https://imageio.forbes.com/specials-images/imageserve/63abee1c40cdcf4a3fcc7319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds)
 
 # Enhancing Code Quality and Effeciency with ChatGPT
 
